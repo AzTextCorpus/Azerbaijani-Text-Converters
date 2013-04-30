@@ -5,7 +5,7 @@ Azerbaijani keyboard layout converter scripts collections for various DBMS. Can 
 
 Köhnə şriftlərlə yazılmış mətnlərlə olan verilənlər bazalarında cədvəlləri bütöv şəkildə Unicode standartı ilə yazılmış şriftlərə çevirən scriptlər toplusu.
 
-Bu skrtiptləri yazmaqda məqsəd
+Bu skriptləri yazmaqda məqsəd
 ===================================
 
 Azərbaycan Respublikası Prezidentinin 18 iyun 2001-ci il 506 №-li fərmanının icrası olaraq, Nazirlər Kabinetinin 28 iyul 2001-ci il 141s №-li sərəncamı ilə Milli Elmlər Akademiyası və Dövlət Standartlaşdırma və Metrologiya Mərkəzinin birgə təklifi ilə razılaşaraq kompüterlərdə istifadə edilən  latın qrafikalı Azərbaycan əlifbası kodlarının və klaviaturada hərflərin düzümünün vahid cədvəlləri standart cədvəllər kimi təsdiq edilmişdir.
