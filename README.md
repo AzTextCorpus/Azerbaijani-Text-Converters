@@ -11,7 +11,7 @@ Bu skriptləri yazmaqda məqsəd
 Azərbaycan Respublikası Prezidentinin 18 iyun 2001-ci il 506 №-li fərmanının icrası olaraq, Nazirlər Kabinetinin 28 iyul 2001-ci il 141s №-li sərəncamı ilə Milli Elmlər Akademiyası və Dövlət Standartlaşdırma və Metrologiya Mərkəzinin birgə təklifi ilə razılaşaraq kompüterlərdə istifadə edilən  latın qrafikalı Azərbaycan əlifbası kodlarının və klaviaturada hərflərin düzümünün vahid cədvəlləri standart cədvəllər kimi təsdiq edilmişdir.
 (http://www.e-qanun.az/print.php?internal=view&target=1&docid=4428&doctype=0)
 
-Lakin, bu sərəncamın üzərindən 12 ilə yaxın keçməsinə baxmayaraq, hələ də ölkəmizdə Rus klaviatura düzümünün üzərində qurulmuş şriftlərlə (faktiki Rus klaviatura düzümü ilə) yazan şəxslər vardır.
+Lakin, bu sərəncamın üzərindən 13 ilə yaxın keçməsinə baxmayaraq, hələ də ölkəmizdə Rus klaviatura düzümünün üzərində qurulmuş şriftlərlə (faktiki Rus klaviatura düzümü ilə) yazan şəxslər vardır.
 
 Bir çox təşkilatlarda (istər özəl, istər dövlət) bu şriftlərlə yazılmış çoxlu sənədlər, verilən bazaları vardır. Bu bazalarla işləyən zaman məlumatların emal olunması məsələsi həmin şriftlər səbəbindən müəyyən çətinliklər yaradır və vaxt itkisinə səbəb olur.
 
